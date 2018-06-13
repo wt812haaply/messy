@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"Better Completion",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Can I Use",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"Emmet",
+		"FileHeader",
+		"Flexbox Snippets",
+		"Git",
+		"Hex to HSL Color Converter",
+		"HTML Snippets",
+		"jQuery",
+		"JsFormat",
+		"Modific",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeCodeIntel",
+		"Sublimerge 3",
+		"Sublimerge Pro",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
+		"wxapp"
+	]
+}
